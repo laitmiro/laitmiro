@@ -68,6 +68,7 @@ I'm always excited to collaborate on innovative projects, contribute to open sou
 - 🌐 [Website](https://quietnode.tech)
 - 💼 [LinkedIn](https://linkedin.com/in/taku-yamamoto-a77b54351)
 - 📝 [Blog](https://quietnode.tech)
+- 🔗 [Stack Overflow](https://stackoverflow.com/users/17346443/laitmiro)
 - 📧 [Email](takuyamamoto@quietnode.tech)
 
 ---
