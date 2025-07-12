@@ -65,8 +65,7 @@ Creating end-to-end experiences that users love. From pixel-perfect interfaces t
 
 I'm always excited to collaborate on innovative projects, contribute to open source, or simply chat about the latest in tech. Whether you're looking to build the next big thing or solve a complex technical challenge, let's connect!
 
-- 🌐 [Portfolio Website](https://quietnode.tech)
-- 𝕏 [Twitter](https://twitter.com/yieldYakuza)
+- 🌐 [Website](https://quietnode.tech)
 - 💼 [LinkedIn](https://linkedin.com/in/taku-yamamoto-a77b54351)
 - 📝 [Blog](https://quietnode.tech)
 - 📧 [Email](takuyamamoto@quietnode.tech)
@@ -98,6 +97,9 @@ I'm always excited to collaborate on innovative projects, contribute to open sou
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00D4FF?style=for-the-badge&logo=weaviate&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logo=chroma&logoColor=white)
 
 ### Cloud & DevOps
 
